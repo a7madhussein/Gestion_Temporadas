@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><LaLiga>
+    <Temporada Año="2024">
+        <Jornada Numero="10">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Barcelona"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Athletic Bilbao" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Real Madrid"/>
+        </Jornada>
+        <Jornada Numero="1">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Barcelona" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Athletic Bilbao" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Madrid" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="2">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Athletic Bilbao" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Madrid" Visitante="Barcelona"/>
+        </Jornada>
+        <Jornada Numero="3">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Real Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Barcelona" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="4">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Barcelona" Visitante="Real Madrid"/>
+        </Jornada>
+        <Jornada Numero="5">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Real Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Barcelona"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Betis" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="6">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Madrid" Visitante="Barcelona"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Athletic Bilbao" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="7">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Athletic Bilbao" Visitante="Real Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Betis" Visitante="Barcelona"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Real Sociedad"/>
+        </Jornada>
+        <Jornada Numero="8">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Barcelona" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Real Madrid"/>
+        </Jornada>
+        <Jornada Numero="9">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Barcelona" Visitante="Real Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Betis" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Equipos/>
+    </Temporada>
+    <Temporada Año="2025">
+        <Jornada Numero="10">
+            <Partido GolesLocal="11" GolesVisitante="11" Local="Athletic Bilbao" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="11" GolesVisitante="11" Local="Barcelona" Visitante="Betis"/>
+            <Partido GolesLocal="11" GolesVisitante="11" Local="Real Sociedad" Visitante="Real Madrid"/>
+        </Jornada>
+        <Jornada Numero="1">
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Madrid" Visitante="Barcelona"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Atletico Madrid" Visitante="Betis"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Sociedad" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="2">
+            <Partido GolesLocal="2" GolesVisitante="2" Local="Barcelona" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="2" GolesVisitante="2" Local="Betis" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="2" GolesVisitante="2" Local="Athletic Bilbao" Visitante="Real Madrid"/>
+        </Jornada>
+        <Jornada Numero="3">
+            <Partido GolesLocal="3" GolesVisitante="3" Local="Athletic Bilbao" Visitante="Betis"/>
+            <Partido GolesLocal="3" GolesVisitante="3" Local="Real Sociedad" Visitante="Real Madrid"/>
+            <Partido GolesLocal="3" GolesVisitante="3" Local="Barcelona" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="4">
+            <Partido GolesLocal="4" GolesVisitante="4" Local="Real Sociedad" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="4" GolesVisitante="4" Local="Barcelona" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="4" GolesVisitante="4" Local="Real Madrid" Visitante="Betis"/>
+        </Jornada>
+        <Jornada Numero="5">
+            <Partido GolesLocal="5" GolesVisitante="5" Local="Real Sociedad" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="5" GolesVisitante="5" Local="Real Madrid" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="5" GolesVisitante="5" Local="Barcelona" Visitante="Betis"/>
+        </Jornada>
+        <Jornada Numero="6">
+            <Partido GolesLocal="6" GolesVisitante="6" Local="Betis" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="6" GolesVisitante="6" Local="Atletico Madrid" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="6" GolesVisitante="6" Local="Real Madrid" Visitante="Barcelona"/>
+        </Jornada>
+        <Jornada Numero="7">
+            <Partido GolesLocal="7" GolesVisitante="7" Local="Real Sociedad" Visitante="Barcelona"/>
+            <Partido GolesLocal="7" GolesVisitante="7" Local="Athletic Bilbao" Visitante="Real Madrid"/>
+            <Partido GolesLocal="7" GolesVisitante="7" Local="Betis" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="8">
+            <Partido GolesLocal="8" GolesVisitante="8" Local="Atletico Madrid" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="8" GolesVisitante="8" Local="Real Madrid" Visitante="Betis"/>
+            <Partido GolesLocal="8" GolesVisitante="8" Local="Barcelona" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="9">
+            <Partido GolesLocal="9" GolesVisitante="9" Local="Athletic Bilbao" Visitante="Betis"/>
+            <Partido GolesLocal="9" GolesVisitante="9" Local="Real Sociedad" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="9" GolesVisitante="9" Local="Real Madrid" Visitante="Barcelona"/>
+        </Jornada>
+        <Equipos>
+            <Equipo EscudoURL="URL del escudo" Nombre="Athletic Bilbao">
+                <Jugador Apellido="Courtois" Nombre="Thibaut" RutaFoto="ruta_courtois.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="Gestion_Temporadas/Media/Equipos/AtMandril.png" Nombre="Atletico Madrid">
+                <Jugador Apellido="Modric" Nombre="Luka" RutaFoto="Media/Jugadores/luka_modric.png"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Barcelona">
+                <Jugador Apellido="Fernández" Nombre="Nacho" RutaFoto="ruta_nacho.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Betis">
+                <Jugador Apellido="Mato" Nombre="Joselu" RutaFoto="ruta_joselu.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Real Madrid">
+                <Jugador Apellido="Kroos" Nombre="Toni" RutaFoto="ruta_kroos.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Real Sociedad">
+                <Jugador Apellido="Alaba" Nombre="David" RutaFoto="ruta_alaba.jpg"/>
+            </Equipo>
+        </Equipos>
+    </Temporada>
+    <Temporada Año="2027">
+        <Jornada Numero="10">
+            <Partido GolesLocal="12" GolesVisitante="4" Local="Real Madrid" Visitante="Betis"/>
+            <Partido GolesLocal="13" GolesVisitante="4" Local="Barcelona" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="1" GolesVisitante="4" Local="Real Sociedad" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="1">
+            <Partido GolesLocal="12" GolesVisitante="12" Local="Atletico Madrid" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="1" GolesVisitante="1" Local="Real Madrid" Visitante="Betis"/>
+            <Partido GolesLocal="2" GolesVisitante="3" Local="Barcelona" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="2">
+            <Partido GolesLocal="12" GolesVisitante="3" Local="Real Madrid" Visitante="Atletico Madrid"/>
+            <Partido GolesLocal="2" GolesVisitante="3" Local="Athletic Bilbao" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="1" GolesVisitante="3" Local="Barcelona" Visitante="Betis"/>
+        </Jornada>
+        <Jornada Numero="3">
+            <Partido GolesLocal="12" GolesVisitante="2" Local="Betis" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="12" GolesVisitante="3" Local="Real Madrid" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="2" GolesVisitante="3" Local="Barcelona" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="4">
+            <Partido GolesLocal="12" GolesVisitante="31" Local="Barcelona" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="12" GolesVisitante="34" Local="Betis" Visitante="Real Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="21" Local="Atletico Madrid" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="5">
+            <Partido GolesLocal="12" GolesVisitante="2" Local="Atletico Madrid" Visitante="Real Madrid"/>
+            <Partido GolesLocal="3" GolesVisitante="3" Local="Betis" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="1" GolesVisitante="3" Local="Barcelona" Visitante="Athletic Bilbao"/>
+        </Jornada>
+        <Jornada Numero="6">
+            <Partido GolesLocal="12" GolesVisitante="12" Local="Betis" Visitante="Real Sociedad"/>
+            <Partido GolesLocal="12" GolesVisitante="12" Local="Athletic Bilbao" Visitante="Barcelona"/>
+            <Partido GolesLocal="12" GolesVisitante="12" Local="Atletico Madrid" Visitante="Real Madrid"/>
+        </Jornada>
+        <Jornada Numero="7">
+            <Partido GolesLocal="32" GolesVisitante="32" Local="Real Madrid" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="23" GolesVisitante="21" Local="Betis" Visitante="Barcelona"/>
+            <Partido GolesLocal="13" GolesVisitante="4" Local="Real Sociedad" Visitante="Atletico Madrid"/>
+        </Jornada>
+        <Jornada Numero="8">
+            <Partido GolesLocal="2" GolesVisitante="2" Local="Atletico Madrid" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="3" GolesVisitante="4" Local="Real Sociedad" Visitante="Real Madrid"/>
+            <Partido GolesLocal="1" GolesVisitante="4" Local="Barcelona" Visitante="Betis"/>
+        </Jornada>
+        <Jornada Numero="9">
+            <Partido GolesLocal="12" GolesVisitante="3" Local="Betis" Visitante="Athletic Bilbao"/>
+            <Partido GolesLocal="4" GolesVisitante="1" Local="Atletico Madrid" Visitante="Real Madrid"/>
+            <Partido GolesLocal="14" GolesVisitante="4" Local="Real Sociedad" Visitante="Barcelona"/>
+        </Jornada>
+        <Equipos>
+            <Equipo EscudoURL="URL del escudo" Nombre="Athletic Bilbao">
+                <Jugador Apellido="Giménez" Nombre="Jose" RutaFoto="ruta_gimenez.jpg"/>
+                <Jugador Apellido="Suárez" Nombre="Luis" RutaFoto="ruta_suarez.jpg"/>
+                <Jugador Apellido="Llorente" Nombre="Marcos" RutaFoto="ruta_llorente.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="Gestion_Temporadas/Media/Equipos/AtMandril.png" Nombre="Atletico Madrid">
+                <Jugador Apellido="Kroos" Nombre="Toni" RutaFoto="ruta_kroos.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Barcelona">
+                <Jugador Apellido="Fernández" Nombre="Nacho" RutaFoto="ruta_nacho.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Betis">
+                <Jugador Apellido="Canales" Nombre="Sergio" RutaFoto="ruta_canales.jpg"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Real Madrid">
+                <Jugador Apellido="Modric" Nombre="Luka" RutaFoto="Media/Equipos/AtMandril.png"/>
+            </Equipo>
+            <Equipo EscudoURL="URL del escudo" Nombre="Real Sociedad">
+                <Jugador Apellido="Alaba" Nombre="David" RutaFoto="ruta_alaba.jpg"/>
+            </Equipo>
+        </Equipos>
+    </Temporada>
+</LaLiga>

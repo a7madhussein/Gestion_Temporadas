@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.standings.ui.page","l":"SportsDashboardPage1"}];updateSearchResults();

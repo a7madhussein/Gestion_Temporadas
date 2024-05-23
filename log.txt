@@ -1,0 +1,8 @@
+2024-05-22 23:50:38 - Inicio de sesión exitoso para el usuario con correo electrónico:ahmad@gmail.com
+2024-05-23 15:12:44 - Inicio de sesión exitoso para el usuario con correo electrónico:admin@laliga.com
+2024-05-23 15:27:25 - Inicio de sesión exitoso para el usuario con correo electrónico:admin@laliga.com
+2024-05-23 15:45:52 - Inicio de sesión exitoso para el usuario con correo electrónico:admin@laliga.com
+2024-05-23 15:53:52 - Inicio de sesión exitoso para el usuario con correo electrónico:admin@laliga.com
+2024-05-23 17:40:49 - Se ha dado de alta un nuevo usuario: ahmad@gmail.com
+2024-05-23 17:40:56 - Inicio de sesión exitoso para el usuario con correo electrónico:ahmad@gmail.com
+2024-05-23 18:03:25 - Inicio de sesión exitoso para el usuario con correo electrónico:ahmad@gmail.com
